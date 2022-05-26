@@ -10,3 +10,30 @@ p {
 ul,li {
 	text-align: center;
 }
+.logo_uas {
+	display: block;
+	margin: 0 auto;
+	width: 90%;
+}
+.corazon {
+	width: 50%;
+	margin: 0 auto;
+	display: block;
+}
+#top {
+	background-color: var(--bs-blue);
+	font-weight: bold;
+	padding: 5px;
+}
+#footer {
+	background-color: var(--bs-gray-500);
+	text-align: center;
+	font-size: 28px;
+	font-weight: bold;
+}
+#footer > .row > .col > a {
+	text-decoration: none;
+}
+.ref {
+	margin: 0;
+}
